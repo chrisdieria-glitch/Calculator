@@ -20,7 +20,7 @@ It allows you to perform basic and advanced operations with a simple and clean g
 ---
 
 ## **Notes**
-	- Currently, the calculator only computes two numbers per operation (e.g., 2 + 3).
+  - Currently, the calculator only computes two numbers per operation (e.g., 2 + 3).
   - Future improvements: support for multiple operations and operator precedence (PEMDAS).
 ---
 
@@ -31,7 +31,9 @@ It allows you to perform basic and advanced operations with a simple and clean g
 ```bash
 git clone https://github.com/chrisdieria-glitch/Calculator.git
 
+--
+
 ## **Author**
 
-Christopher Diaz Feria
-Github:https://github.com/chrisdieria-glitch
+- Christopher Diaz Feria
+- Github:https://github.com/chrisdieria-glitch
